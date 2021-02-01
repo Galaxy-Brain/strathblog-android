@@ -1,5 +1,5 @@
 # Android Blog App
-  ##By Team Galaxy Brain
+  ## By Team Galaxy Brain
   - Steve Nyanumba
   - Rose Maina
   - Matthias Kamau
