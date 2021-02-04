@@ -12,3 +12,6 @@ This Project is our Mobile Application Development final project. It's a blog Ap
 ### The Rest API
 The Functionalities of this application that include Authentication and Authorization, Posting and User Registration and Info Edits are all done in this REST API. We built it using Laravel PHP together with its compatriot Libraries Laravel Jetstream which comes with a token Authorization managing Dependancy known as Laravel Sanctum. This is what we use for Token Auth of which when this tokens are used in the authorization headers, it automatically authenticates the user to carry out their authorized requests.
 
+### RELEASES
+
+[Strath Blog Version 0.9 Beta](https://github.com/Galaxy-Brain/strathblog-android/releases/download/0.9/Strathblog.apk)
